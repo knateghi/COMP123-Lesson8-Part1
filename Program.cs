@@ -10,6 +10,7 @@ namespace COMP123_Lesson8_Part1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter your age: ");
         }
     }
 }
